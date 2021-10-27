@@ -32,7 +32,7 @@ time platanus assemble -o Poil -t 1 -m 8 -f *.trimmed 2>assemble
 <h3> 7. Скаффолды </h3>
 time platanus scaffold -o Poil -t 1 -c Poil_contig.fa -IP1 *.trimmed -OP2 *.int_trimmed 2>scaffold
 
-<h3> 8. Уменьшение кол-во гэпов с помощью подрезанных чтений </h3>
+<h3> 8. Уменьшение кол-ва гэпов с помощью подрезанных чтений </h3>
 platanus gap_close -o Poil -t 1 -c Poil_scaffold.fa -IP1 *.trimmed -OP2 *.int_trimmed 2>gapclose.log
 
 <h3> Ссылка на код </h3>
