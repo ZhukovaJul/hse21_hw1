@@ -35,4 +35,4 @@ time platanus scaffold -o Poil -t 1 -c Poil_contig.fa -IP1 *.trimmed -OP2 *.int_
 <h3> 8. Уменьшение кол-во гэпов с помощью подрезанных чтений </h3>
 platanus gap_close -o Poil -t 1 -c Poil_scaffold.fa -IP1 *.trimmed -OP2 *.int_trimmed 2>gapclose.log
 
-
+https://colab.research.google.com/drive/1bZFLrpRKEhWo1c6NP7zVPDrXHAhCMil3?usp=sharing
