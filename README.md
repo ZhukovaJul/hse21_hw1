@@ -37,3 +37,7 @@ platanus gap_close -o Poil -t 1 -c Poil_scaffold.fa -IP1 *.trimmed -OP2 *.int_tr
 
 <h3> Ссылка на код </h3>
 https://colab.research.google.com/drive/1bZFLrpRKEhWo1c6NP7zVPDrXHAhCMil3?usp=sharing
+
+<h3> MultiQC </h3>
+![image](https://user-images.githubusercontent.com/93137187/139115678-180813a0-06f0-4559-b435-93d3b060f024.png)
+
