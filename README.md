@@ -39,7 +39,6 @@ platanus gap_close -o Poil -t 1 -c Poil_scaffold.fa -IP1 *.trimmed -OP2 *.int_tr
 https://colab.research.google.com/drive/1bZFLrpRKEhWo1c6NP7zVPDrXHAhCMil3?usp=sharing
 
 <h3> MultiQC </h3>
-<br>
 <h3> Отчет 1 </h3>
 
 ![](https://github.com/ZhukovaJul/hse21_hw1/blob/main/img/1.1.PNG)
